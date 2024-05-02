@@ -1,0 +1,101 @@
+body{
+  roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+}
+ 
+.first img{
+  width: 700px;
+  height: 500px;
+  position: relative;
+  border-radius: 50px;
+  vertical-align: top;
+}
+.first button{
+  width: 150px;
+  height: 65px;
+  position: absolute;
+  left: 75px;
+  top: 45px;
+  font-size: 30px;
+  border-radius:10px;
+  background-color: green;
+}
+h1{
+  font-size: 60px;
+  font-style: bold;
+  
+}
+.eee img{
+  width: 90px;
+  height: 90px;
+ 
+  left:100px;
+  flex: 40px;
+  float: 50px;
+  
+}
+button{
+width: 140px;
+height:60px;
+font-size:40px;
+border-radius: 10px;
+background-color: aqua;
+position: relative;
+flex-wrap: wrap;
+}
+
+
+
+.second img{
+  width: 700px;
+  height: 500px;
+  position: relative;
+  border-radius: 50px;vertical-align: top;
+
+}
+.second h1{
+  font-size: 60px;
+  font-style: bold;
+  
+}
+.second .eee img{
+  width: 90px;
+  height: 90px;
+ 
+  left:100px;
+  flex: 40px;
+  float: 50px;
+}
+.second{
+  float: right;
+  top:50px;
+  right:50px;
+  position: absolute;
+  vertical-align: top;
+
+}
+.second button{
+  width: 170px;
+height:60px;
+left:50px;
+font-size:40px;
+border-radius: 10px;
+background-color: rgb(241, 248, 248);
+position: absolute;
+flex-wrap: wrap;
+margin-top: 30px ;
+
+}
+.third button{
+background-color: rgb(230, 243, 242);
+
+left:50px;
+font-size:40px;
+margin-inline-start: 450px;
+top:10px;
+margin-top: 650px;
+border-radius: 5px;
+}
